@@ -1,0 +1,20 @@
+let tierra = 9.8 m/s^2
+let marte =  3.7 m/s^2
+let jupiter = 24.8 m/s^2 
+
+let peso = 70 kg
+
+1) tierra -> peso
+    marte ->   X
+
+        (marte)(peso)
+ X =   ________________
+	    tierra
+
+...............................................
+2) tierra  -> peso
+   jupiter ->   X
+
+        (jupiter)(peso)
+ X =   ________________
+	    tierra
